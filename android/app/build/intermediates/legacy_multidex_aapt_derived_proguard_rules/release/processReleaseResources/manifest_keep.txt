@@ -1,0 +1,4 @@
+# Referenced at /Users/danishali/Desktop/kizbin_mgr/android/app/build/intermediates/merged_manifests/release/AndroidManifest.xml:58
+-keep class androidx.core.app.CoreComponentFactory { <init>(); }
+# Referenced at /Users/danishali/Desktop/kizbin_mgr/android/app/build/intermediates/merged_manifests/release/AndroidManifest.xml:58
+-keep class com.kizbin.MainApplication { <init>(); }

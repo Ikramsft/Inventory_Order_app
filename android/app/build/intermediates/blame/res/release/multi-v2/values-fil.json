@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/danishali/Desktop/kizbin_mgr/android/app/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-fil/values-fil.xml",
+            "map": [
+                {
+                    "source": "/Users/danishali/.gradle/caches/transforms-2/files-2.1/4e57ec7ff9523c48eeeb19dec859ad0d/res/values-fil/values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "203",
+                        "endColumns": "107",
+                        "endOffsets": "310"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "111",
+                        "endOffsets": "162"
+                    }
+                }
+            ]
+        }
+    ]
+}
