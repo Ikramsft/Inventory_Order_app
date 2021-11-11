@@ -1,0 +1,6 @@
+module Pods_kizbin {
+  umbrella header "Pods-kizbin-umbrella.h"
+
+  export *
+  module * { export * }
+}

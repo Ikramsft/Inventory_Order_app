@@ -1,0 +1,23 @@
+{
+  "name": "react-native-in-app-utils",
+  "version": "6.1.0",
+  "homepage": "https://github.com/chirag04/react-native-in-app-utils",
+  "summary": "A react-native wrapper for handling in-app payments.",
+  "license": "MIT",
+  "authors": {
+    "Chirag Jain": "jain_chirag04@yahoo.com"
+  },
+  "platforms": {
+    "ios": "7.0"
+  },
+  "source": {
+    "git": "https://github.com/chirag04/react-native-in-app-utils.git",
+    "tag": "v6.1.0"
+  },
+  "source_files": "InAppUtils/*.{h,m}",
+  "dependencies": {
+    "React": [
+
+    ]
+  }
+}
