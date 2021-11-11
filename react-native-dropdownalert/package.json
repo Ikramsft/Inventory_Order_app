@@ -1,0 +1,87 @@
+{
+  "_from": "react-native-dropdownalert",
+  "_id": "react-native-dropdownalert@4.3.0",
+  "_inBundle": false,
+  "_integrity": "sha512-fXs18A23nrTB95jkTdP7c9TzoSZU0xS9F4lxMzwW1DFI08Nm62S4X00UqWu+Ong+TBDDP18/aF7b50T67Z26EQ==",
+  "_location": "/react-native-dropdownalert",
+  "_phantomChildren": {
+    "isomorphic-fetch": "2.2.1",
+    "loose-envify": "1.4.0",
+    "object-assign": "4.1.1",
+    "promise": "7.3.1",
+    "setimmediate": "1.0.5",
+    "ua-parser-js": "0.7.21"
+  },
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "react-native-dropdownalert",
+    "name": "react-native-dropdownalert",
+    "escapedName": "react-native-dropdownalert",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/react-native-dropdownalert/-/react-native-dropdownalert-4.3.0.tgz",
+  "_shasum": "56b612d63576387fa1a507b4158d92e7b7638af3",
+  "_spec": "react-native-dropdownalert",
+  "_where": "/Users/danishali/Desktop/kizbib_git/kizbin-inventory",
+  "author": {
+    "name": "Brian Sinnicke"
+  },
+  "bugs": {
+    "url": "https://github.com/testshallpass/react-native-dropdownalert/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "prop-types": "15.5.10"
+  },
+  "deprecated": false,
+  "description": "A simple alert to notify users about new chat messages, something went wrong or everything is ok.",
+  "devDependencies": {
+    "@babel/core": "7.7.7",
+    "@babel/preset-env": "7.7.7",
+    "@react-native-community/eslint-config": "1.1.0",
+    "babel-jest": "26.0.1",
+    "enzyme": "3.10.0",
+    "enzyme-adapter-react-16": "1.15.2",
+    "enzyme-to-json": "3.4.4",
+    "eslint": "7.2.0",
+    "jest": "26.0.1",
+    "metro-react-native-babel-preset": "0.57.0",
+    "prettier": "2.0.5",
+    "react": "16.9.0",
+    "react-dom": "16.9.0",
+    "react-native": "0.61.5",
+    "react-test-renderer": "16.9.0"
+  },
+  "homepage": "https://github.com/testshallpass/react-native-dropdownalert#readme",
+  "keywords": [
+    "dropdown",
+    "alert",
+    "error",
+    "info",
+    "warning",
+    "react-native",
+    "ios",
+    "android",
+    "react-component"
+  ],
+  "license": "MIT",
+  "main": "DropdownAlert.js",
+  "name": "react-native-dropdownalert",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/testshallpass/react-native-dropdownalert.git"
+  },
+  "scripts": {
+    "test": "jest",
+    "test:ci": "jest && codecov"
+  },
+  "types": "index.d.ts",
+  "version": "4.3.0"
+}
